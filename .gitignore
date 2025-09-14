@@ -1,0 +1,29 @@
+# MetaTrader kompilierte Dateien
+*.ex4
+*.ex5
+
+# MetaTrader temporäre Dateien
+*.log
+*.tmp
+
+# MetaTrader Tester Dateien
+*.tst
+*.opt
+*.set
+
+# Backup Dateien
+*.bak
+*~
+
+# System Dateien
+.DS_Store
+Thumbs.db
+
+# Editor Dateien
+*.swp
+*.swo
+*~
+
+# Temporary Ordner
+/tmp/
+/temp/
